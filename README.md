@@ -13,6 +13,6 @@ A brief description of what your project does.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/r-zdevelop/snake_game
    cd repository-name
    ```
